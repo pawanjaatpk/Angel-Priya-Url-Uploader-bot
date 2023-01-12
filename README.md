@@ -51,7 +51,7 @@
 <details><summary>🧡Deploy To Heroku🧡</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/Angel-Priya-Url-Uploader-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/pawanjaatpk/Angel-Priya-Url-Uploader-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
